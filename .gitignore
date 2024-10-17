@@ -1,0 +1,8 @@
+__pycache__
+.pytest_cache
+.ruff_cache
+.env
+.pypirc
+pyproject.toml
+dist/
+etl_tool_aplt.egg-info/

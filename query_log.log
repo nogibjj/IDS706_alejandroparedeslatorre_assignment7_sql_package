@@ -1,0 +1,34 @@
+2024-10-05 12:43:45,042 - INFO - Successfully read table Universities 
+2024-10-05 12:44:16,945 - INFO - Successfully read table Universities 
+2024-10-05 12:50:15,823 - INFO - Successfully read table Universities 
+2024-10-05 12:59:23,288 - INFO - Successfully read table Universities 
+2024-10-05 13:00:44,210 - INFO - Successfully read table Universities 
+2024-10-05 13:00:58,693 - INFO - Successfully read table Universities 
+2024-10-05 13:01:13,682 - INFO - Successfully read table Universities 
+2024-10-17 00:01:38,534 - INFO - Successfully read table aplt_starwars_people
+2024-10-17 00:01:38,547 - INFO - Closing session 01ef8c3c-833d-1648-9134-7c3634455632
+2024-10-17 00:01:38,647 - INFO - Closing session 01ef8c3c-8319-1117-bc97-9e8edb414a9a
+2024-10-17 00:46:57,031 - INFO - Successfully opened session 01ef8c42-d82e-1b31-8e61-038baf152434
+2024-10-17 00:47:28,185 - INFO - Closing session 01ef8c42-d82e-1b31-8e61-038baf152434
+2024-10-17 00:47:28,596 - INFO - Closing session 01ef8c42-d809-1964-8bfc-d9ebc5e9ced0
+2024-10-17 00:47:28,636 - INFO - Error during request to server: {"method": "CloseSession", "session-id": "b'\\x01\\xef\\x8cB\\xd8\\t\\x19d\\x8b\\xfc\\xd9\\xeb\\xc5\\xe9\\xce\\xd0'", "query-id": null, "http-code": 200, "error-message": "", "original-exception": "sys.meta_path is None, Python is likely shutting down", "no-retry-reason": "non-retryable error", "bounded-retry-delay": null, "attempt": "1/30", "elapsed-seconds": "0.03943943977355957/900.0"}
+2024-10-17 00:49:22,911 - INFO - Successfully read table aplt_starwars_people
+2024-10-17 00:52:31,276 - INFO - Successfully opened session 01ef8c43-9f6b-1dd2-9a9d-e94c77bdb921
+2024-10-17 00:53:02,396 - INFO - Closing session 01ef8c43-9f6b-1dd2-9a9d-e94c77bdb921
+2024-10-17 00:53:02,764 - INFO - Closing session 01ef8c43-9f48-119e-9742-006af98c0421
+2024-10-17 00:53:02,801 - INFO - Error during request to server: {"method": "CloseSession", "session-id": "b'\\x01\\xef\\x8cC\\x9fH\\x11\\x9e\\x97B\\x00j\\xf9\\x8c\\x04!'", "query-id": null, "http-code": 200, "error-message": "", "original-exception": "sys.meta_path is None, Python is likely shutting down", "no-retry-reason": "non-retryable error", "bounded-retry-delay": null, "attempt": "1/30", "elapsed-seconds": "0.03608584403991699/900.0"}
+2024-10-17 00:58:43,839 - INFO - Successfully opened session 01ef8c44-7d7b-174d-8a84-dfedd0635b7a
+2024-10-17 00:59:12,321 - INFO - Closing session 01ef8c44-7d7b-174d-8a84-dfedd0635b7a
+2024-10-17 00:59:12,728 - INFO - Closing session 01ef8c44-7d57-1143-8398-3a7a9a51279e
+2024-10-17 00:59:12,761 - INFO - Error during request to server: {"method": "CloseSession", "session-id": "b\"\\x01\\xef\\x8cD}W\\x11C\\x83\\x98:z\\x9aQ'\\x9e\"", "query-id": null, "http-code": 200, "error-message": "", "original-exception": "sys.meta_path is None, Python is likely shutting down", "no-retry-reason": "non-retryable error", "bounded-retry-delay": null, "attempt": "1/30", "elapsed-seconds": "0.03216743469238281/900.0"}
+2024-10-17 00:59:17,389 - INFO - Successfully read table aplt_starwars_people
+2024-10-17 01:04:33,135 - INFO - Successfully opened session 01ef8c45-4dae-1bd4-a4a6-0a7f1883e822
+2024-10-17 01:05:05,953 - INFO - Closing session 01ef8c45-4dae-1bd4-a4a6-0a7f1883e822
+2024-10-17 01:05:06,423 - INFO - Closing session 01ef8c45-4d86-1b4a-8781-e59fec16db55
+2024-10-17 01:05:06,474 - INFO - Error during request to server: {"method": "CloseSession", "session-id": "b'\\x01\\xef\\x8cEM\\x86\\x1bJ\\x87\\x81\\xe5\\x9f\\xec\\x16\\xdbU'", "query-id": null, "http-code": 200, "error-message": "", "original-exception": "sys.meta_path is None, Python is likely shutting down", "no-retry-reason": "non-retryable error", "bounded-retry-delay": null, "attempt": "1/30", "elapsed-seconds": "0.050978899002075195/900.0"}
+2024-10-17 01:05:11,490 - INFO - Successfully read table aplt_starwars_people
+2024-10-17 01:07:18,010 - INFO - Successfully opened session 01ef8c45-afea-1d77-96ad-3d6c79191d15
+2024-10-17 01:07:46,738 - INFO - Closing session 01ef8c45-afea-1d77-96ad-3d6c79191d15
+2024-10-17 01:07:47,089 - INFO - Closing session 01ef8c45-afc1-1eba-ad94-d0536f67c497
+2024-10-17 01:07:47,125 - INFO - Error during request to server: {"method": "CloseSession", "session-id": "b'\\x01\\xef\\x8cE\\xaf\\xc1\\x1e\\xba\\xad\\x94\\xd0Sog\\xc4\\x97'", "query-id": null, "http-code": 200, "error-message": "", "original-exception": "sys.meta_path is None, Python is likely shutting down", "no-retry-reason": "non-retryable error", "bounded-retry-delay": null, "attempt": "1/30", "elapsed-seconds": "0.03599953651428223/900.0"}
+2024-10-17 01:07:51,885 - INFO - Successfully read table aplt_starwars_people
