@@ -13,3 +13,4 @@ polars
 requests
 click
 databricks
+databricks-sql-connector
