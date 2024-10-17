@@ -1,5 +1,7 @@
 # IDS706_alejandroparedeslatorre_assignment7_SQL
 
+[![CI](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment7_sql_package/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment7_sql_package/actions/workflows/CI.yml)
+
 This repo has an implementation to perform an ETL and a CRUD operation using databricks with two tables:
 We extract data from the api:
 
