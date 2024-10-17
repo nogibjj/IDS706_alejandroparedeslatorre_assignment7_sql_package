@@ -12,3 +12,4 @@ ruff
 polars
 requests
 click
+databricks
